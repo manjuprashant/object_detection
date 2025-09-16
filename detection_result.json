@@ -1,0 +1,24 @@
+{
+    "objects": [
+        {
+            "label": "person",
+            "confidence": 0.87,
+            "bbox": [
+                45,
+                60,
+                200,
+                400
+            ]
+        },
+        {
+            "label": "dog",
+            "confidence": 0.78,
+            "bbox": [
+                300,
+                150,
+                450,
+                350
+            ]
+        }
+    ]
+}
